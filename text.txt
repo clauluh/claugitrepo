@@ -1,2 +1,6 @@
 my first git try
+<<<<<<< HEAD
 second try
+=======
+practice
+>>>>>>> 0849b01a65178c4460de260c7e48f947e19544b9
